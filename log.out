@@ -1,0 +1,13 @@
+2021-02-12 10:17:19 INFO  StepDefinition:60 - ANZ Init
+2021-02-12 10:17:38 INFO  StepDefinition:67 - I am in ANZ borrowing calculator page
+2021-02-12 10:17:42 INFO  StepDefinition:79 - Entering borrowing calculation details
+2021-02-12 10:17:46 INFO  StepDefinition:86 - click on how much I could borrow buttons
+2021-02-12 10:17:46 INFO  StepDefinition:94 - validate borrowing capacity details
+2021-02-12 10:17:48 INFO  StepDefinition:115 - Quit Browser
+2021-02-12 10:17:51 INFO  StepDefinition:60 - ANZ Init
+2021-02-12 10:18:10 INFO  StepDefinition:67 - I am in ANZ borrowing calculator page
+2021-02-12 10:18:15 INFO  StepDefinition:79 - Entering borrowing calculation details
+2021-02-12 10:18:19 INFO  StepDefinition:86 - click on how much I could borrow buttons
+2021-02-12 10:18:20 INFO  StepDefinition:102 - click on start over button
+2021-02-12 10:18:20 INFO  StepDefinition:109 - validate for reset calculation details
+2021-02-12 10:18:22 INFO  StepDefinition:115 - Quit Browser
